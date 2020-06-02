@@ -6,6 +6,7 @@ This was done as an educational project and has no intention of producing any mo
 
 
 
-In the project directory, you can run:
+To run the project locally, in the project directory, you can run:
 
 npm start
+
